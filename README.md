@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing my Full-Stack abilities with side-projects
+- 🔭 I’m currently working on developing my Full Stack abilities with side-projects
 - 🌱 I’m currently learning .net
-- 👯 I’m looking to collaborate on startups ideas or projects
+- 👯 I’m open to collaborate side-projects and open-source projects
 - 💬 Ask me about Frontend 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-b-b014015/)
 
