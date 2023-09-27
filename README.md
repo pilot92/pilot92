@@ -5,6 +5,7 @@
 - 👯 I’m open to collaborate side-projects and open-source projects
 - 💬 Ask me about Frontend 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-b-b014015/)
+- Here's some semple projects: [Next.JS Blog](https://nextjs-blog-sigma-six-96.vercel.app/)
 
 <!--
 **pilot92/pilot92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
