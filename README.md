@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 I'm David!
 
 - 🔭 I’m currently working on developing my Full Stack abilities with side-projects
 - 🌱 I’m currently learning to master Next.JS
