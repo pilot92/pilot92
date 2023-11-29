@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm David!
 
- <img src="https://visitor-badge.laobi.icu/badge?page_id=${pilot92}.visitor-badge" />
+"https://visitor-badge.laobi.icu/badge?page_id=${pilot92}.visitor-badge"
 
 - 🔭 I’m currently working on developing my Full Stack abilities with side-projects
 - 🌱 I’m currently learning to master Next.JS
