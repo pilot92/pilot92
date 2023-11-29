@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm David!
 
-👨‍💻  Product developer & manager
-🇮🇱  From Tel Aviv-Yafo, Israel
+👨‍💻  Product developer & manager <br>
+🇮🇱  From Tel Aviv-Yafo, Israel <br>
 🤓  Constent learner
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=${pilot92}.visitor-badge" />
