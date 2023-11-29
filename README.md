@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on developing my Full Stack abilities with side-projects
 - 🌱 I’m currently learning to master Next.JS
-- 👯 I’m open to collaborate side-projects and open-source projects
-- 💬 Ask me about Frontend 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-b-b014015/)
 - Here's some semple projects: [Next.JS Blog](https://nextjs-blog-sigma-six-96.vercel.app/) , more public projects soon...
 
