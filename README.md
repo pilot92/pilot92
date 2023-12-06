@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on developing my Full Stack abilities with side-projects
 - 🌱 I’m currently learning to master Next.JS
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daviddby17)
+- 📫 How to reach me check my social links on the side
 - Here's some semple projects: [Next.JS Blog](https://nextjs-blog-sigma-six-96.vercel.app/) , more public projects soon...
 
 <!--
